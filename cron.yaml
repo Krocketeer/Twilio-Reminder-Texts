@@ -1,0 +1,126 @@
+cron:
+- description: 'Class 1: M/W 4:30-6pm Reminder'
+  url: /send/language/Class%201:%20M/W%204:30-6pm
+  schedule: every monday, wednesday 16:20
+  timezone: America/Los_Angeles
+
+- description: 'Class 1: T/Th 4:45-6:15pm Reminder'
+  url: /send/language/Class%201:%20T/Th%204:45-6:15pm
+  schedule: every tuesday, thursday 16:35
+  timezone: America/Los_Angeles
+
+- description: 'Class 2: T/Th 3-4:30pm Reminder'
+  url: /send/language/Class%202%20:%20T/Th%203-4:30pm
+  schedule: every tuesday, thursday 14:50
+  timezone: America/Los_Angeles
+
+- description: 'Class 2: T/Th 3:45-5:15pm Reminder'
+  url: /send/language/Class%202:%20T/Th%203:45-5:15pm
+  schedule: every tuesday, thursday 15:35
+  timezone: America/Los_Angeles
+
+- description: 'Class 3/4: T/Th 5:30-7pm Reminder'
+  url: /send/language/Class%203/4:%20T/Th%205:30-7pm
+  schedule: every tuesday, thursday 17:20
+  timezone: America/Los_Angeles
+
+- description: 'Class 1: M/W 5:30-7pm Reminder'
+  url: /send/language/Class%201:%20M/W%205:30-7pm
+  schedule: every monday, wednesday 17:20
+  timezone: America/Los_Angeles
+
+- description: 'Class 1: T/Th 4-5:30pm Reminder'
+  url: /send/language/Class%201:%20T/Th%204-5:30pm
+  schedule: every tuesday, thursday 15:50
+  timezone: America/Los_Angeles
+
+- description: 'Class 2: M/W 4-5:30pm Reminder'
+  url: /send/language/Class%202:%20M/W%204-5:30pm
+  schedule: every monday, wednesday 15:50
+  timezone: America/Los_Angeles
+
+- description: 'Class 1: M/W 4:30-6pm Reminder'
+  url: /send/language/Class%201:%20M/W%204:30-6pm
+  schedule: every monday, wednesday 16:20
+  timezone: America/Los_Angeles
+
+- description: 'Class 1: T/Th 3:45-5:15pm Reminder'
+  url: /send/language/Class%201:%20T/Th%203:45-5:15pm
+  schedule: every tuesday, thursday 15:35
+  timezone: America/Los_Angeles
+
+- description: 'Class 1: T/Th 6-7:30pm Reminder'
+  url: /send/language/Class%201:%20T/Th%206-7:30pm
+  schedule: every tuesday, thursday 17:50
+  timezone: America/Los_Angeles
+
+- description: 'Class 2: M/W 3:45-5:15pm Reminder'
+  url: /send/language/Class%202:%20M/W%203:45-5:15pm
+  schedule: every monday, wednesday 15:35
+  timezone: America/Los_Angeles
+
+- description: 'Class 2: T/Th 5:45-7:15pm Reminder'
+  url: /send/language/Class%202:%20T/Th%205:45-7:15pm
+  schedule: every tuesday, thursday 17:35
+  timezone: America/Los_Angeles
+
+- description: 'Class 1: T/Th 3:45-5:15pm Reminder'
+  url: /send/language/Class%201:%20T/Th%203:45-5:15pm
+  schedule: every tuesday, thursday 15:35
+  timezone: America/Los_Angeles
+
+- description: 'Class 2A: W 3:45-5:15pm Reminder'
+  url: /send/language/Class%202A:%20W%203:45-5:15pm
+  schedule: every wednesday 15:35
+  timezone: America/Los_Angeles
+
+- description: 'Class1 Leadership Reminder'
+  url: /send/leadership/Class1
+  schedule: 9 of dec 14:35
+  timezone: America/Los_Angeles
+
+- description: 'Class2 & Class3 Leadership Reminder'
+  url: /send/leadership/Class2%20&%20Class3
+  schedule: 4 of dec 15:35
+  timezone: America/Los_Angeles
+
+- description: 'Class4 Leadership Reminder'
+  url: /send/leadership/Class4
+  schedule: 11 of dec 15:35
+  timezone: America/Los_Angeles
+
+- description: 'Class5 Leadership Reminder'
+  url: /send/leadership/Class5
+  schedule: 10 of dec 15:35
+  timezone: America/Los_Angeles
+
+- description: 'Teacher1 Office Hours Reminder'
+  url: /send/office_hours/Dana
+  schedule: every wed 14:35
+  timezone: America/Los_Angeles
+
+- description: 'Teacher2 Office Hours Reminder'
+  url: /send/office_hours/Teacher2
+  schedule: every sat 10:50
+  timezone: America/Los_Angeles
+
+- description: 'Teacher3 Office Hours Reminder'
+  url: /send/office_hours/Teacher3
+  schedule: every sat 14:50
+  timezone: America/Los_Angeles
+
+- description: 'Teacher4 Office Hours Reminder'
+  url: /send/office_hours/Teacher4
+  schedule: every sun 11:50
+  timezone: America/Los_Angeles
+
+- description: 'Teacher5 Office Hours Reminder'
+  url: /send/office_hours/Teacher5
+  schedule: every mon, wed 17:10
+  timezone: America/Los_Angeles
+
+- description: 'Teacher6 Office Hours Reminder'
+  url: /send/office_hours/Teacher6
+  schedule: every mon 14:35
+  timezone: America/Los_Angeles
+
